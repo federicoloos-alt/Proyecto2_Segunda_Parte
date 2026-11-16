@@ -1,9 +1,10 @@
 # Proyecto2_Segunda_Parte
-Descripción
+Descripción:
+
 Modelo de Regresión Lineal Múltiple que predice la tasa de natalidad en 2024 
 (nacimientos por cada 1.000 personas) a partir de la natalidad en 1960, 1980 y 2000.
 
-Conclusiones
+Conclusiones:
 
 ¿Cuál fue el desempeño del modelo?
 Fue bueno. En Test el R2 fue de 0,895: el modelo explica casi el 90 % de las variaciones de la natalidad en 2024. 
